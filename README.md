@@ -5,6 +5,11 @@
 
 - 📫 How to reach me **aditya.dalaiii312@gmail.com**
 
+- *** Here are my projects
+- ### Express Projects
+- -[basic Express app with CRUD operation]_(https://github.com/adityaDalai1/expressProjectLevelL1).
+- -[sample Express CRUD operation with Mongodb connection]_(https://github.com/adityaDalai1/expressAPIL2).
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aditya-dalai-a515b6326/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya dalai" height="30" width="40" /></a>
