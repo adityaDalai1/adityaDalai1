@@ -7,8 +7,14 @@
 
 - *** Here are my projects
 - ### Express Projects
-- -[basic Express app with CRUD operation]_(https://github.com/adityaDalai1/project).
-- -[sample Express CRUD operation with Mongodb connection]_(https://github.com/adityaDalai1/expressAPIL2).
+- [basic Express app with CRUD operation]_(https://github.com/adityaDalai1/project).
+- [sample Express CRUD operation with Mongodb connection]_(https://github.com/adityaDalai1/expressAPIL2).
+
+- ### React Projects
+- [Basic React project for word-letter-count]_(https://github.com/adityaDalai1/reactProjects/tree/main/word-letter-counter).
+- [Basic React project for lyrics-finder]_(https://github.com/adityaDalai1/reactProjects/tree/main/lyrics-finder).
+- [Basic React project for password-validator]_(https://github.com/adityaDalai1/reactProjects/tree/main/password-validator).
+- [Basic project for Axios app with CRUD operation].(https://github.com/adityaDalai1/reactProjects/tree/main/axios-lab).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
